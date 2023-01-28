@@ -1,0 +1,11 @@
+     ID             name price           category quantity        date
+0  1001          avocado   230            grocery       10  10/03/2021
+1  1002           lotion   250  beauty & personal      100  15/07/2021
+2  1003    pain reliever   500             health      200  12/04/2021
+3  1004        dry pasta    20            grocery       50  27/06/2021
+4  1005       toothbrush   700  beauty & personal      100  30/01/2021
+5  1006  halloween candy    33            grocery       56  22/02/2021
+6  1007          mascara   765  beauty & personal       70  11/03/2021
+7  1008         capsicum   764            grocery       90  16/02/2021
+8  1009            blush    87  beauty & personal       50  17/07/2021
+9  1010     granola bars    24            grocery       60  20/05/2021
